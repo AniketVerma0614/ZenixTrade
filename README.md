@@ -1,2 +1,2 @@
-# ZERODHA-CLONE
+# ZenixTrade
  
