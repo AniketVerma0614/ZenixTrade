@@ -191,3 +191,10 @@ export const positions = [
     isLoss: true,
   },
 ];
+
+
+// //holdings
+// export const holdings =[];
+
+// //positions
+// export const positions =[];
